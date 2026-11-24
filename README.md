@@ -37,11 +37,11 @@ CSD0111_Mini_Project/
 │       └── logo.svg
 ├── 05_Screenshots/
 │   └── Project_Screenshots/
-│       ├── 01_Dashboard_Overview.png
-│       ├── 02_Form_Validation_Entry.png
-│       ├── 03_Category_Filter_Search.png
-│       ├── 04_Excel_Analysis_Charts.png
-│       └── 05_CSV_Export_Budget_Alert.png
+│       ├── featureSS1.png
+│       ├── featureSS2.png
+│       ├── featureSS3.png
+│       ├── featureSS4.png
+│       └── featureSS5.png
 └── README.md
 ```
 
